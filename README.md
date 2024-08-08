@@ -1,11 +1,11 @@
-<h3 align="center">Animato: Your Anime-Inspired Portfolio</h3>
+<h3 align="center">Djeibaba Abdellahi: Your Anime-Inspired Portfolio</h3>
 
 <p align="center">
   <a href="" rel="noopener">
  <img width="auto" height="auto" src="./Mon_im/couv.png" alt="FFMPEG UTILITY"></a>
 </p>
 
-This repository houses the source code for **Animato**, your vibrant, anime-themed portfolio website built with HTML and vanilla CSS. Get ready to showcase your skills, projects, and contact information in style!
+This repository houses the source code for **Me**, your vibrant, anime-themed portfolio website built with HTML and vanilla CSS. Get ready to showcase your skills, projects, and contact information in style!
 
 **Features:**
 
@@ -20,7 +20,7 @@ This repository houses the source code for **Animato**, your vibrant, anime-them
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MudabbirulSaad/animato-portfolio.git
+   
    ```
 
 2. **Open the project in your preferred code editor.**
