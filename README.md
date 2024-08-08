@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width="auto" height="auto" src="./docs/Home.png" alt="FFMPEG UTILITY"></a>
+ <img width="auto" height="auto" src="./Mon_im/couv.png" alt="FFMPEG UTILITY"></a>
 </p>
 
 This repository houses the source code for **Animato**, your vibrant, anime-themed portfolio website built with HTML and vanilla CSS. Get ready to showcase your skills, projects, and contact information in style!
